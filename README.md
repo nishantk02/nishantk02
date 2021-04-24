@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishantk02 a Devigner
-- 👀 I’m interested in UI/UX Design and Development
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Web Technologies
+- 🌱 I’m currently learning Frontend Frameworks like Angular
 - 💞️ I’m looking to collaborate on any cool idea
 - 📫 You can inbox me at nishantk.in@mouritech.com
 
