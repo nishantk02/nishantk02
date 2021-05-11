@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishantk02 a Devigner
+- 👋 Hi, I’m @nishantk02 a UI/UX Devigner
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning Frontend Frameworks like Angular
 - 💞️ I’m looking to collaborate on any cool idea
